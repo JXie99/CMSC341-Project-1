@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion projects after april 15/CMSC341 Project 1/graph.cpp
+graph.h
+D:/Clion projects after april 15/CMSC341 Project 1/graph.h
+
+D:/Clion projects after april 15/CMSC341 Project 1/graph.h
+iostream
+-
+string
+-
+fstream
+-
+stack
+-
+cstring
+-
+
